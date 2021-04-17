@@ -9,7 +9,16 @@ experiences:
     dates: '2018 - Present'
     location: Deutschland
     writeup: >
-      ToDo
+      Im Rahmen der Entwicklung der SoftwareCPU(1505/7/8) leite ich ein Team technisch an. Das Team modernisiert die Build-, Konfigurations- und Testinfrastruktur. Mein Aufgabenbereich umfasst auch die Weiterentwicklung, Test, Dokumentation und Qualitätssicherung der SoftwareCPU.
+
+  - title: Wanderer
+    organization:
+      name: private
+      url: https://example.org
+    dates: '2018'
+    location: Deutschland
+    writeup: >
+      Weitwanderung des Continental Divide Trail USA
 
   - title: Software Developer
     organization:
@@ -18,25 +27,34 @@ experiences:
     dates: '2014 - 2018'
     location: Deutschland
     writeup: >
-      ToDo
+      Ich habe als Teil des Projektes S7VMM(Echtzeithypervisor fuer x86 Systeme) die Implementierung von Gerätetreibern, Powermanagement(ACPI) und Gerätevirtualisierung verantwortet. Mein Fokus war auf die Verifikation von Funktionalität durch Einführung und Fördung von Unittests in der embedded Softwareentwicklung gerichtet.  
+
+  - title: Wanderer
+    organization:
+      name: private
+      url: https://example.org
+    dates: '2014'
+    location: Deutschland
+    writeup: >
+      Weitwanderung auf dem Pacific Crest Trail USA
 
   - title: Software Developer
     organization:
       name: Siemens AG
       url: https://example.org
-    dates: '2012 - 2014'
+    dates: '2013 - 2014'
     location: Deutschland
     writeup: >
-      ToDo
+      Mein Aufgabengebiet umfasste die Weiterentwicklung der Transferkomponente im Produkt WinCC Professional(TIA Portal), sowie WinCC flexible. Die Komponente war für den Download der Laufzeitdaten aus der Entwicklungsumgebung auf verschiedene Zielplatformen(MultiPanel, ComfortPanel, SmaRTPanel,…).
 
   - title: Software Developer
     organization:
       name: Evosoft GmbH
       url: https://example.org
-    dates: '2007 - 2012'
+    dates: '2007 - 2013'
     location: Deutschland
     writeup: >
-      ToDo
+      Ich war an der Weiterentwicklung, Wartung und Pflege von Komponenten zum Konfigurationsdownload bei WinCC flexible beteiligt.. 
 
 weight: 3
 widget:
