@@ -20,7 +20,7 @@ widget:
     
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color: tertiary
+    color: secondary
     image:
     # Options: auto, cover and contain. Default is auto.
     size:

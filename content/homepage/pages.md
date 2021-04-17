@@ -1,10 +1,10 @@
 ---
-title: Pages
+title: Artikel
 draft: false
 # Section you want to display
 section: posts
 # Pages count
-count: 5
+count: 3
 # Options: card, plain and masonry.
 style: plain
 
