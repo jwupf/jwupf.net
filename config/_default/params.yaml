@@ -25,6 +25,14 @@ highlight:
     # See https://github.com/highlightjs/cdn-release/tree/master/build/languages for available languages.
     languages:
       - dart
+      - powershell
+      - c
+      - cpp
+      - csharp
+      - javascript
+      - markdown
+      - typescript
+      - python
     # See https://github.com/highlightjs/cdn-release/tree/master/build/styles for available styles.
     style: solarized-light
 
