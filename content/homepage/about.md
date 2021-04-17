@@ -1,11 +1,11 @@
 ---
 title: Jörg Wunderlich-Pfeiffer
 draft: false
-role: joerg
+role: Das bin Ich!
 avatar: "images/ich.jpg"
 bio: ToDo - bio
 organization:
-  name: private
+  name: jwupf.net
   url: https://jwupf.net/
 social:
   - icon: envelope

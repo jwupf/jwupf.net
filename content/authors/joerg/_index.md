@@ -1,11 +1,11 @@
 ---
 # Name
 title: Jörg Wunderlich-Pfeiffer
-role: owner
+role: Das bin Ich!
 bio: Eigentümer der Seite
 avatar: images/ich.jpg
 
 organization:
-  name: ich
+  name: jwupf.net
   url: https://jwupf.net/#about
 ---
