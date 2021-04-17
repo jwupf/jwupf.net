@@ -1,0 +1,7 @@
+main:
+  - name: Über
+    url: '#about'
+    weight: 1
+  - name: Artikel
+    url: /posts/
+    weight: 2
