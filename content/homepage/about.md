@@ -1,9 +1,9 @@
 ---
 title: Jörg Wunderlich-Pfeiffer
 draft: false
-role: Das bin Ich!
+role: root
 avatar: "images/ich.jpg"
-bio: ToDo - bio
+bio: Softwareentwickler, Weitwanderer und manchmal ein schräger Vogel
 organization:
   name: jwupf.net
   url: https://jwupf.net/
@@ -45,5 +45,5 @@ widget:
 
 ## Was hat es mit dieser Seite auf sich?
 
-ToDo
+Eine Seite mit Artikeln über alles worüber ich was schreiben will. Das wird wahrscheinlich Softwareentwicklung und Berichte übers Wandern sein.
 

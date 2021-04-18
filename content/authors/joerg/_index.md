@@ -1,8 +1,7 @@
 ---
 # Name
 title: Jörg Wunderlich-Pfeiffer
-role: Das bin Ich!
-bio: Eigentümer der Seite
+role: root
 avatar: images/ich.jpg
 
 organization:
