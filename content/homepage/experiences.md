@@ -16,7 +16,7 @@ experiences:
       name: private
       url: https://example.org
     dates: '2018'
-    location: Deutschland
+    location: USA(NM, CO, WY, MT)
     writeup: >
       Weitwanderung des Continental Divide Trail USA
 
@@ -27,14 +27,14 @@ experiences:
     dates: '2014 - 2018'
     location: Deutschland
     writeup: >
-      Ich habe als Teil des Projektes S7VMM(Echtzeithypervisor fuer x86 Systeme) die Implementierung von Gerätetreibern, Powermanagement(ACPI) und Gerätevirtualisierung verantwortet. Mein Fokus war auf die Verifikation von Funktionalität durch Einführung und Fördung von Unittests in der embedded Softwareentwicklung gerichtet.  
+      Ich habe als Teil des Projektes S7VMM(Echtzeithypervisor für x86 Systeme) die Implementierung von Gerätetreibern, Powermanagement(ACPI) und Gerätevirtualisierung verantwortet. Mein Fokus war auf die Verifikation von Funktionalität durch Einführung und Fördung von Unittests in der embedded Softwareentwicklung gerichtet.  
 
   - title: Wanderer
     organization:
       name: private
       url: https://example.org
     dates: '2014'
-    location: Deutschland
+    location: USA(leider nur CA)
     writeup: >
       Weitwanderung auf dem Pacific Crest Trail USA
 
