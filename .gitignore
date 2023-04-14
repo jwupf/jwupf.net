@@ -3,3 +3,4 @@ static/images/*
 !static/images/ich.png
 !static/images/ich.jpg
 .hugo_build.lock
+resources/_gen/*

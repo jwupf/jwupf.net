@@ -4,9 +4,16 @@ draft: false
 experiences:
   - title: Senior Software Developer
     organization:
+      name: Atos / Eviden
+    dates: '2022 - today'
+    location: Deutschland
+    writeup: >
+      Ich helfe Kunden dabei neue Features in ihre Software zu implementieren ...
+      
+  - title: Senior Software Developer
+    organization:
       name: Siemens AG
-      url: https://example.org
-    dates: '2018 - Present'
+    dates: '2018 - 2022'
     location: Deutschland
     writeup: >
       Im Rahmen der Entwicklung der SoftwareCPU(1505/7/8) leite ich ein Team technisch an. Das Team modernisiert die Build-, Konfigurations- und Testinfrastruktur. Mein Aufgabenbereich umfasst auch die Weiterentwicklung, Test, Dokumentation und Qualitätssicherung der SoftwareCPU.
@@ -14,7 +21,6 @@ experiences:
   - title: Wanderer
     organization:
       name: private
-      url: https://example.org
     dates: '2018'
     location: USA(NM, CO, WY, MT)
     writeup: >
@@ -23,7 +29,6 @@ experiences:
   - title: Software Developer
     organization:
       name: Siemens AG
-      url: https://example.org
     dates: '2014 - 2018'
     location: Deutschland
     writeup: >
@@ -32,7 +37,6 @@ experiences:
   - title: Wanderer
     organization:
       name: private
-      url: https://example.org
     dates: '2014'
     location: USA(leider nur CA)
     writeup: >
@@ -41,7 +45,6 @@ experiences:
   - title: Software Developer
     organization:
       name: Siemens AG
-      url: https://example.org
     dates: '2013 - 2014'
     location: Deutschland
     writeup: >
@@ -50,7 +53,6 @@ experiences:
   - title: Software Developer
     organization:
       name: Evosoft GmbH
-      url: https://example.org
     dates: '2007 - 2013'
     location: Deutschland
     writeup: >
