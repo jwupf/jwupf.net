@@ -8,7 +8,7 @@ git pull
 git submodule init
 git pull --recurse-submodules
 
-hugo  && rsync -avz --delete ${PUBDIR} ${HOST}:${DIR}
+docker run --rm -it -v $PWD:/src klakegg/hugo && rsync -avz --delete ${PUBDIR} ${HOST}:${DIR}
 
 exit 0
 
